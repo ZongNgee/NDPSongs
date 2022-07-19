@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NDPSongs</string>
+    <string name="enter_song_title_here">Enter song title here</string>
+    <string name="singers">Singers</string>
+    <string name="enter_singers_name_here">Enter singers\' name here</string>
+    <string name="year">Year</string>
+    <string name="enter_year_of_release_here">Enter year of release here</string>
+    <string name="stars">Stars</string>
+    <string name="insert">insert</string>
+    <string name="show_list">show list</string>
+    <string name="song_title">Song Title</string>
+    <string name="show_all_songs_with_5stars">show all songs with 5 stars</string>
+    <string name="show_all">show all</string>
+    <string name="song_id">song id</string>
+    <string name="title">title</string>
+    <string name="update">update</string>
+    <string name="cancel">cancel</string>
+</resources>
